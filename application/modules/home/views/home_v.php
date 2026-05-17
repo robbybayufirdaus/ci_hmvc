@@ -1,0 +1,1 @@
+<center><h1>Welcome to CodeIgniter 3 Framework with modular HMVC</h1></center>
